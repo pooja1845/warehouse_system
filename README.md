@@ -158,9 +158,11 @@ warehouse_system/
 
 > *Add screenshots here after running the application*
 
-| Login Screen | Dashboard |
-|:---:|:---:|
+| Login Screen |
+|:---:|
 | <img width="1919" height="1014" alt="Screenshot 2026-03-29 124508" src="https://github.com/user-attachments/assets/7806f849-b20c-4546-8b2e-9c076616136f" />
+| Dashboard |
+|:---:|
  | <img width="1919" height="1018" alt="Screenshot 2026-03-29 124611" src="https://github.com/user-attachments/assets/37a5c3bf-484d-4733-8a7f-9b63deb1018b" />
 |
 
