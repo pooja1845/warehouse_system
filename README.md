@@ -181,7 +181,7 @@ warehouse_system/
 ## 👩‍💻 Author
 
 **Pooja**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [pooja1845](https://github.com/pooja1845)
 
 ---
 
