@@ -1,0 +1,29 @@
+# Maven build output
+target/
+*.jar
+*.war
+*.class
+dependency-reduced-pom.xml
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.eclipse
+.project
+.classpath
+.settings/
+
+# Maven wrapper (optional - keep mvnw but ignore jar)
+.mvn/wrapper/maven-wrapper.jar
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Environment / secrets
+*.env
