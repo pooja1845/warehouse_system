@@ -16,7 +16,7 @@
 
 ## 🎬 Demo
 
-> 📹 *Demo video / screenshots coming soon*
+"C:\Users\pooja\OneDrive\Desktop\Recording 2026-03-29 131501.mp4"
 
 ---
 
@@ -156,7 +156,6 @@ warehouse_system/
 
 ## 📸 Screenshots
 
-> *Add screenshots here after running the application*
 
 | Login Screen |
 |:---:|
