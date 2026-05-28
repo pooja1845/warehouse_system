@@ -16,8 +16,8 @@
 
 ## 🎬  Demo
 
-https://github.com/user-attachments/assets/21e42f8a-dac7-4ea8-945d-4b16ce8bc2c4
 
+https://github.com/user-attachments/assets/1ae7b76d-8a43-4fb5-9f17-d2dd558ddab4
 
 
 ---
@@ -158,10 +158,6 @@ warehouse_system/
 
 ## 📸 Screenshots
 
-
-| Login Screen |
-|:---:|
-| <img width="1919" height="1014" alt="Screenshot 2026-03-29 124508" src="https://github.com/user-attachments/assets/7806f849-b20c-4546-8b2e-9c076616136f" />
 | Dashboard |
  | <img width="1919" height="1018" alt="Screenshot 2026-03-29 124611" src="https://github.com/user-attachments/assets/37a5c3bf-484d-4733-8a7f-9b63deb1018b" />
 |
@@ -189,12 +185,6 @@ warehouse_system/
 
 **Pooja**
 - GitHub: [pooja1845](https://github.com/pooja1845)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
